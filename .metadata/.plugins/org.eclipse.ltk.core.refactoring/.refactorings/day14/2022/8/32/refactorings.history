@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;MyJDBC.java&apos; to &apos;MyMAVEN/src/test/java/com.globallogic.maven.MyMAVEN&apos;&#x0D;&#x0A;- Original project: &apos;day14&apos;&#x0D;&#x0A;- Destination element: &apos;MyMAVEN/src/test/java/com.globallogic.maven.MyMAVEN&apos;&#x0D;&#x0A;- Original element: &apos;com.globallogic.day14.MyJDBC.java&apos;" description="Copy compilation unit" destination="=MyMAVEN/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;com.globallogic.maven.MyMAVEN" element1="/src&lt;com.globallogic.day14{MyJDBC.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1659598443606" units="1" version="1.0"/>
+</session>
