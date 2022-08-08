@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="D:\GL Project"/>
 			<item value="C:\Users\akash.prajapati\eclipse-workspace\day10"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -26,13 +27,19 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.project.StudentTracking"/>
+			<item value="com.globallogic.emp.EmployeeManegemntSystem"/>
 			<item value="com.globallogic.maven.MyMAVENWeb"/>
 			<item value="com.globallogic.maven.MyMAVEN"/>
 		</list>
 		<list key="groupId">
+			<item value="com.project"/>
+			<item value="com.globallogic.emp"/>
 			<item value="com.globallogic.maven"/>
 		</list>
 		<list key="artifactId">
+			<item value="StudentTracking"/>
+			<item value="EmployeeManegemntSystem"/>
 			<item value="MyMAVENWeb"/>
 			<item value="MyMAVEN"/>
 		</list>
@@ -70,5 +77,18 @@
 	<section name="org.eclipse.m2e.core.pom.overview">
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="EMPL"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="EMPL"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
 	</section>
 </section>

@@ -1,1 +1,2 @@
-com\globallogic\hello\MyFirstServlet.class
+com\globallogic\hello\ProfileController.class
+com\globallogic\hello\HomeController.class
